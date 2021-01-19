@@ -1,5 +1,5 @@
-import ContentObjectView from 'core/js/views/contentObjectView';
-import MenuItemView from 'core/js/views/menuItemView';
+import ContentObjectView from '../views/contentObjectView';
+import MenuItemView from '../views/menuItemView';
 
 class MenuView extends ContentObjectView {}
 

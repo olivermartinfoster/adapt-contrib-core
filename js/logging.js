@@ -1,5 +1,5 @@
-import Adapt from 'core/js/adapt';
-import LOG_LEVEL from 'core/js/enums/logLevelEnum';
+import Adapt from './adapt';
+import LOG_LEVEL from './enums/logLevelEnum';
 
 class Logging extends Backbone.Controller {
 

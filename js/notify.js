@@ -1,7 +1,7 @@
-import Adapt from 'core/js/adapt';
-import NotifyPushCollection from 'core/js/collections/notifyPushCollection';
-import NotifyView from 'core/js/views/notifyView';
-import NotifyModel from 'core/js/models/notifyModel';
+import Adapt from './adapt';
+import NotifyPushCollection from './collections/notifyPushCollection';
+import NotifyView from './views/notifyView';
+import NotifyModel from './models/notifyModel';
 
 class Notify extends Backbone.Controller {
 

@@ -1,5 +1,5 @@
-import Adapt from 'core/js/adapt';
-import 'core/js/templates';
+import Adapt from '../adapt';
+import '../templates';
 
 /**
  * 27 April 2020 https://github.com/adaptlearning/adapt_framework/issues/2734

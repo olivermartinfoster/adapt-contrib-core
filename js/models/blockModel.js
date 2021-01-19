@@ -1,5 +1,5 @@
-import Adapt from 'core/js/adapt';
-import AdaptModel from 'core/js/models/adaptModel';
+import Adapt from '../adapt';
+import AdaptModel from '../models/adaptModel';
 
 class BlockModel extends AdaptModel {
 

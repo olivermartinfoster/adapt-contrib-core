@@ -1,5 +1,5 @@
-import ComponentModel from 'core/js/models/componentModel';
-import ItemModel from 'core/js/models/itemModel';
+import ComponentModel from '../models/componentModel';
+import ItemModel from '../models/itemModel';
 
 export default class ItemsComponentModel extends ComponentModel {
 

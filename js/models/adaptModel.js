@@ -1,7 +1,7 @@
-import Adapt from 'core/js/adapt';
-import ModelEvent from 'core/js/modelEvent';
-import LockingModel from 'core/js/models/lockingModel';
-import 'core/js/logging';
+import Adapt from '../adapt';
+import ModelEvent from '../modelEvent';
+import LockingModel from '../models/lockingModel';
+import '../logging';
 
 export default class AdaptModel extends LockingModel {
 

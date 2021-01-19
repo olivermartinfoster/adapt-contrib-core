@@ -1,5 +1,5 @@
-import Adapt from 'core/js/adapt';
-import ChildEvent from 'core/js/childEvent';
+import Adapt from '../adapt';
+import ChildEvent from '../childEvent';
 
 class AdaptView extends Backbone.View {
 

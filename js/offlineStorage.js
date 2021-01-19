@@ -1,4 +1,4 @@
-import Adapt from 'core/js/adapt';
+import Adapt from './adapt';
 
 // Basic API for setting and getting name+value pairs
 // Allows registration of a single handler.

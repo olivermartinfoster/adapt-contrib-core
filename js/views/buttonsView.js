@@ -1,5 +1,5 @@
-import Adapt from 'core/js/adapt';
-import BUTTON_STATE from 'core/js/enums/buttonStateEnum';
+import Adapt from '../adapt';
+import BUTTON_STATE from '../enums/buttonStateEnum';
 
 // convert BUTTON_STATE to property name
 const textPropertyName = {

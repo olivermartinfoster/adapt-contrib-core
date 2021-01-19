@@ -1,5 +1,5 @@
-import Adapt from 'core/js/adapt';
-import DrawerItemView from 'core/js/views/drawerItemView';
+import Adapt from '../adapt';
+import DrawerItemView from '../views/drawerItemView';
 
 class DrawerView extends Backbone.View {
 

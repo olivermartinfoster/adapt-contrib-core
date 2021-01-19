@@ -1,5 +1,5 @@
-import QuestionModel from 'core/js/models/questionModel';
-import ItemsComponentModel from 'core/js/models/itemsComponentModel';
+import QuestionModel from '../models/questionModel';
+import ItemsComponentModel from '../models/itemsComponentModel';
 
 class BlendedItemsComponentQuestionModel extends QuestionModel {
 

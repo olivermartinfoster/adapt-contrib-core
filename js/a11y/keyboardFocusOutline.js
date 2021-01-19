@@ -1,4 +1,4 @@
-import Adapt from 'core/js/adapt';
+import Adapt from '../adapt';
 
 /**
  * Manages whether or not the focus outline should be entirely removed

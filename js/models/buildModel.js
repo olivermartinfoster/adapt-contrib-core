@@ -1,6 +1,6 @@
-import Adapt from 'core/js/adapt';
-import LockingModel from 'core/js/models/lockingModel';
-import 'core/js/logging';
+import Adapt from '../adapt';
+import LockingModel from '../models/lockingModel';
+import '../logging';
 
 export default class BuildModel extends LockingModel {
 

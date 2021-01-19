@@ -1,4 +1,4 @@
-import LockingModel from 'core/js/models/lockingModel';
+import LockingModel from '../models/lockingModel';
 
 export default class NotifyModel extends LockingModel {
 

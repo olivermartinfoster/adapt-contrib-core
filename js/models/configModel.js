@@ -1,5 +1,5 @@
-import Adapt from 'core/js/adapt';
-import LockingModel from 'core/js/models/lockingModel';
+import Adapt from '../adapt';
+import LockingModel from '../models/lockingModel';
 
 export default class ConfigModel extends LockingModel {
 

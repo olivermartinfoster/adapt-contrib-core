@@ -1,5 +1,5 @@
-import Adapt from 'core/js/adapt';
-import a11y from 'core/js/a11y';
+import Adapt from './adapt';
+import a11y from './a11y';
 
 /**
  * Backwards compatibility `Adapt.accessibility` reroutes to `Adapt.a11y`

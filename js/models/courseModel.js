@@ -1,5 +1,5 @@
-import Adapt from 'core/js/adapt';
-import MenuModel from 'core/js/models/menuModel';
+import Adapt from '../adapt';
+import MenuModel from '../models/menuModel';
 
 class CourseModel extends MenuModel {
 

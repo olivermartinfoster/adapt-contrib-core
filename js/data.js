@@ -1,11 +1,11 @@
-import Adapt from 'core/js/adapt';
-import AdaptCollection from 'core/js/collections/adaptCollection';
-import BuildModel from 'core/js/models/buildModel';
-import ConfigModel from 'core/js/models/configModel';
-import LockingModel from 'core/js/models/lockingModel';
+import Adapt from './adapt';
+import AdaptCollection from './collections/adaptCollection';
+import BuildModel from './models/buildModel';
+import ConfigModel from './models/configModel';
+import LockingModel from './models/lockingModel';
 
-import 'core/js/models/courseModel';
-import 'core/js/startController';
+import './models/courseModel';
+import './startController';
 
 class Data extends AdaptCollection {
 

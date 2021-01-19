@@ -1,17 +1,17 @@
-import Adapt from 'core/js/adapt';
-import Data from 'core/js/data';
-import AdaptSubsetCollection from 'core/js/collections/adaptSubsetCollection';
-import ContentObjectModel from 'core/js/models/contentObjectModel';
-import ArticleModel from 'core/js/models/articleModel';
-import BlockModel from 'core/js/models/blockModel';
-import ComponentModel from 'core/js/models/componentModel';
+import Adapt from './adapt';
+import Data from './data';
+import AdaptSubsetCollection from './collections/adaptSubsetCollection';
+import ContentObjectModel from './models/contentObjectModel';
+import ArticleModel from './models/articleModel';
+import BlockModel from './models/blockModel';
+import ComponentModel from './models/componentModel';
 
-import 'core/js/models/courseModel';
-import 'core/js/models/menuModel';
-import 'core/js/models/pageModel';
-import 'core/js/views/pageView';
-import 'core/js/views/articleView';
-import 'core/js/views/blockView';
+import './models/courseModel';
+import './models/menuModel';
+import './models/pageModel';
+import './views/pageView';
+import './views/articleView';
+import './views/blockView';
 
 class MPABC extends Backbone.Controller {
 

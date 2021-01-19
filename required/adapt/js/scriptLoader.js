@@ -55,10 +55,11 @@
     requirejs.config({
       map: {
         '*': {
+          core: 'adapt-contrib-core',
           coreJS: 'core/js',
-          coreViews: 'core/js/views',
-          coreModels: 'core/js/models',
-          coreCollections: 'core/js/collections'
+          coreViews: 'adapt-contrib-core/js/views',
+          coreModels: 'adapt-contrib-core/js/models',
+          coreCollections: 'adapt-contrib-core/js/collections'
         }
       },
       paths: {

@@ -1,5 +1,5 @@
-import Adapt from 'core/js/adapt';
-import AdaptView from 'core/js/views/adaptView';
+import Adapt from '../adapt';
+import AdaptView from '../views/adaptView';
 
 class BlockView extends AdaptView {
 

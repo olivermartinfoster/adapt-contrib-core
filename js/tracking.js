@@ -1,5 +1,5 @@
-import Adapt from 'core/js/adapt';
-import COMPLETION_STATE from 'core/js/enums/completionStateEnum';
+import Adapt from './adapt';
+import COMPLETION_STATE from './enums/completionStateEnum';
 
 class Tracking extends Backbone.Controller {
 

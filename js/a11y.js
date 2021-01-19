@@ -1,13 +1,13 @@
-import Adapt from 'core/js/adapt';
-import BrowserFocus from 'core/js/a11y/browserFocus';
-import FocusOptions from 'core/js/a11y/focusOptions';
-import KeyboardFocusOutline from 'core/js/a11y/keyboardFocusOutline';
-import Log from 'core/js/a11y/log';
-import Scroll from 'core/js/a11y/scroll';
-import WrapFocus from 'core/js/a11y/wrapFocus';
-import Popup from 'core/js/a11y/popup';
+import Adapt from './adapt';
+import BrowserFocus from './a11y/browserFocus';
+import FocusOptions from './a11y/focusOptions';
+import KeyboardFocusOutline from './a11y/keyboardFocusOutline';
+import Log from './a11y/log';
+import Scroll from './a11y/scroll';
+import WrapFocus from './a11y/wrapFocus';
+import Popup from './a11y/popup';
 
-import 'core/js/a11y/deprecated';
+import './a11y/deprecated';
 
 class A11y extends Backbone.Controller {
 

@@ -1,4 +1,4 @@
-import Adapt from 'core/js/adapt';
+import Adapt from './adapt';
 
 const defaultAriaLevels = {
   '_menu': 1,

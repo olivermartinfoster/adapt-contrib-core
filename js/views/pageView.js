@@ -1,5 +1,5 @@
-import Adapt from 'core/js/adapt';
-import ContentObjectView from 'core/js/views/contentObjectView';
+import Adapt from '../adapt';
+import ContentObjectView from '../views/contentObjectView';
 
 class PageView extends ContentObjectView {
 

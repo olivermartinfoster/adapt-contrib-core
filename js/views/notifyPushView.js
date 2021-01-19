@@ -1,4 +1,4 @@
-import Adapt from 'core/js/adapt';
+import Adapt from '../adapt';
 
 export default class NotifyPushView extends Backbone.View {
 

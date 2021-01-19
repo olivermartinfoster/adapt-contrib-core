@@ -1,4 +1,4 @@
-import Adapt from 'core/js/adapt';
+import Adapt from '../adapt';
 
 /**
  * Tabindex and aria-hidden manager for popups.

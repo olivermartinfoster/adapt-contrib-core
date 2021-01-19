@@ -1,5 +1,5 @@
-import Adapt from 'core/js/adapt';
-import TemplateRenderEvent from 'core/js/templateRenderEvent';
+import Adapt from './adapt';
+import TemplateRenderEvent from './templateRenderEvent';
 
 /**
  * Adds template and partial, preRender and postRender events to Adapt

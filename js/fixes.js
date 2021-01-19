@@ -1,1 +1,1 @@
-import 'core/js/fixes/img.lazyload';
+import './fixes/img.lazyload';

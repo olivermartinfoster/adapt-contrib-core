@@ -1,9 +1,9 @@
-import Adapt from 'core/js/adapt';
-import RouterModel from 'core/js/models/routerModel';
-import CourseModel from 'core/js/models/courseModel';
-import ContentObjectModel from 'core/js/models/contentObjectModel';
-import MenuModel from 'core/js/models/menuModel';
-import 'core/js/startController';
+import Adapt from './adapt';
+import RouterModel from './models/routerModel';
+import CourseModel from './models/courseModel';
+import ContentObjectModel from './models/contentObjectModel';
+import MenuModel from './models/menuModel';
+import './startController';
 
 class Router extends Backbone.Router {
 

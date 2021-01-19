@@ -1,4 +1,4 @@
-import Adapt from 'core/js/adapt';
+import Adapt from './adapt';
 import Bowser from 'bowser';
 
 class Device extends Backbone.Controller {

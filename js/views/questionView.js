@@ -1,9 +1,9 @@
-import Adapt from 'core/js/adapt';
-import ComponentView from 'core/js/views/componentView';
-import ButtonsView from 'core/js/views/buttonsView';
-import BUTTON_STATE from 'core/js/enums/buttonStateEnum';
+import Adapt from '../adapt';
+import ComponentView from '../views/componentView';
+import ButtonsView from '../views/buttonsView';
+import BUTTON_STATE from '../enums/buttonStateEnum';
 
-import 'core/js/models/questionModel';
+import '../models/questionModel';
 
 class QuestionView extends ComponentView {
 

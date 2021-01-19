@@ -1,4 +1,4 @@
-import Adapt from 'core/js/adapt';
+import Adapt from '../adapt';
 
 /**
  * The old API is rerouted to the new API with warnings.

@@ -1,4 +1,4 @@
-import AdaptView from 'core/js/views/adaptView';
+import AdaptView from '../views/adaptView';
 
 class MenuItemView extends AdaptView {
 

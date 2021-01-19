@@ -1,5 +1,5 @@
-import Wait from 'core/js/wait';
-import LockingModel from 'core/js/models/lockingModel';
+import Wait from './wait';
+import LockingModel from './models/lockingModel';
 
 class AdaptSingleton extends LockingModel {
 

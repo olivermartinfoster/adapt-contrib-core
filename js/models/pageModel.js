@@ -1,5 +1,5 @@
-import Adapt from 'core/js/adapt';
-import ContentObjectModel from 'core/js/models/contentObjectModel';
+import Adapt from '../adapt';
+import ContentObjectModel from '../models/contentObjectModel';
 
 class PageModel extends ContentObjectModel {
 

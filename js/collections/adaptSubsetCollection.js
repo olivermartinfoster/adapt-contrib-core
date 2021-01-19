@@ -1,4 +1,4 @@
-import AdaptCollection from 'core/js/collections/adaptCollection';
+import AdaptCollection from '../collections/adaptCollection';
 
 export default class AdaptSubsetCollection extends AdaptCollection {
 

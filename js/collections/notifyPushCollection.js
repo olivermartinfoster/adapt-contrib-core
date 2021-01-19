@@ -1,6 +1,6 @@
-import Adapt from 'core/js/adapt';
-import NotifyPushView from 'core/js/views/notifyPushView';
-import NotifyModel from 'core/js/models/notifyModel';
+import Adapt from '../adapt';
+import NotifyPushView from '../views/notifyPushView';
+import NotifyModel from '../models/notifyModel';
 
 // Build a collection to store push notifications
 export default class NotifyPushCollection extends Backbone.Collection {

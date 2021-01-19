@@ -1,6 +1,6 @@
-import Adapt from 'core/js/adapt';
-import ComponentModel from 'core/js/models/componentModel';
-import BUTTON_STATE from 'core/js/enums/buttonStateEnum';
+import Adapt from '../adapt';
+import ComponentModel from '../models/componentModel';
+import BUTTON_STATE from '../enums/buttonStateEnum';
 
 class QuestionModel extends ComponentModel {
 
