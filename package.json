@@ -1,0 +1,16 @@
+{
+  "name": "adapt-contrib-core",
+  "version": "5.10.0",
+  "homepage": "https://github.com/adaptlearning/adapt-contrib-core",
+  "issues": "https://github.com/adaptlearning/adapt_framework/issues/new",
+  "menu": "core",
+  "displayName": "Core",
+  "description": "Adapt Framework core",
+  "main": "js/app.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-menu"
+  ],
+  "license": "GPL-3.0",
+  "targetAttribute": "_core"
+}
