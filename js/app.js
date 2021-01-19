@@ -16,7 +16,6 @@ import 'core/js/helpers';
 import 'core/js/scrolling';
 import 'core/js/headings';
 import 'core/js/navigation';
-import 'plugins';
 
 $('body').append(Handlebars.templates.loading());
 
