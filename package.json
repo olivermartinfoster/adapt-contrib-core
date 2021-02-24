@@ -12,5 +12,10 @@
     "adapt-menu"
   ],
   "license": "GPL-3.0",
-  "targetAttribute": "_core"
+  "targetAttribute": "_core",
+  "dependencies": {
+    "html-react-parser": "^1.2.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
 }
