@@ -1,6 +1,6 @@
-import Adapt from './adapt';
-import './templates';
-import { find, clone } from './reactHelpers';
+import Adapt from '../adapt';
+import '../templates';
+import { find, clone } from '../reactHelpers';
 
 /**
  * 27 April 2020 https://github.com/adaptlearning/adapt_framework/issues/2734
